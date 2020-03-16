@@ -69,12 +69,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
-
-# contact form
-  # ##############################
-
-  # used in partials/contact.form.html
-  # Enable the contact form by entering your Formspree.io email
-  formspree            = "formspree.io"
-  email                = "gazarza@gmail.com"
-  contactFormInclEmail = true

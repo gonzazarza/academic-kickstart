@@ -10,12 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Data & Analytics Director
+role: Data Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: Globant
-  url: "www.globant.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed computing, artificial intelligence and data and analytcs.
@@ -68,9 +66,9 @@ social:
 - icon: twitter-square
   icon_pack: fab
   link: https://twitter.com/gonzazarza
-- icon: envelope-square
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope-square
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -89,10 +87,10 @@ user_groups:
 
 ## About me
 
-I hold a doctoral degree in High-Performance Computing and co-authored the book "Big Data Engineering, How to Deal with Data".
+I hold a doctoral degree in High-Performance Computing and co-authored the book ["Big Data Engineering, How to Deal with Data"](http://www.editorialuoc.cat/la-ingenieria-del-big-data).
 
 I currently serve as Technical Director in the Data & Analytics, and the Artificial Intelligence Studios at Globant, with a strong emphasis on data engineering and strategy. At Globant, I lead the Data Architecture practice at a global scale, leading a team of more than 180 highly skilled professionals located in USA, Europe, India and Latin America.
 
-[In the academic field](#teaching), I have lectured graduate and postgraduate courses at the Escola d'Enginyeria of the Universitat Aunònoma de Barcelona (UAB) for more than five years. Since 2016, I teach Data and Analytics in Masters degrees of the Business School at the Universidad Argentina de la Empresa (UADE). 
+[In the academic field](#teaching), I have lectured graduate and postgraduate courses at the Escola d'Enginyeria from the Universitat Aunònoma de Barcelona (UAB) for more than five years. Since 2016, I teach Data and Analytics in Masters degrees of the Business School at the Universidad Argentina de la Empresa (UADE). 
 
 In addition, I frequently speak at conferences and events about Big Data, High-Performance Computing and Artificial Intelligence.
