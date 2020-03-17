@@ -63,9 +63,9 @@ social:
 #- icon: github-square
 #  icon_pack: fab
 #  link: https://github.com/gonzazarza
-- icon: twitter-square
-  icon_pack: fab
-  link: https://twitter.com/gonzazarza
+#- icon: twitter-square
+#  icon_pack: fab
+#  link: https://twitter.com/gonzazarza
 #- icon: envelope-square
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
