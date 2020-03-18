@@ -13,3 +13,7 @@ header:
   caption: ""
   image: ""
 ---
+
+
+Below you'll find the complete list of Gonzalo's peer-reviewed publications, doctoral and masters theses, books and patent drafts.
+
