@@ -1,5 +1,5 @@
 ---
-title: Bit & Byte - UNLP
+title: Bit & Byte UNLP
 summary: Investigación e Innovación, Profesionales de Calidad
 tags: 
 - interview

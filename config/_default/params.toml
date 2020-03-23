@@ -27,7 +27,7 @@ logo = ""
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r"]  # Add support for highlighting additional languages
+highlight_languages = ["py","bibtex","py3","tex"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -49,7 +49,7 @@ edit_page = {repo_url = "", editable = {docs = true, page = false, post = false}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "Mon, Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 

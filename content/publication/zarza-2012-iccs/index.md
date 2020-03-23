@@ -10,4 +10,3 @@ publication: "*Procedia Computer Science*"
 tags: ["University Education", "High-Performance Computing", "Simulation Management", "OPNET Modeler"]
 doi: "10.1016/j.procs.2012.04.191"
 ---
-

@@ -16,7 +16,7 @@ role: Data Enthusiast
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed computing, artificial intelligence and data and analytcs.
+bio: My interests include Distributed Computing, Artificial Intelligence and Data & Analytcs.
 
 interests:
 - Data Strategy
@@ -54,9 +54,9 @@ social:
 - icon: google-scholar-square
   icon_pack: ai
   link: https://scholar.google.com/citations?user=rjBDtWIAAAAJ
-#- icon: semantic-scholar-square
-#  icon_pack: ai
-#  link: https://www.semanticscholar.org/author/Gonzalo-Zarza/2869422
+- icon: semantic-scholar-square
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Gonzalo-Zarza/2869422
 - icon: dblp-square
   icon_pack: ai
   link: https://dblp.org/pers/hd/z/Zarza:Gonzalo
@@ -93,4 +93,4 @@ I currently serve as Technical Director in the Data & Analytics, and the Artific
 
 [In the academic field](#teaching), I have lectured graduate and postgraduate courses at the Escola d'Enginyeria from the Universitat Aunònoma de Barcelona (UAB) for more than five years. Since 2016, I teach Data and Analytics in Masters degrees of the Business School at the Universidad Argentina de la Empresa (UADE). 
 
-In addition, I frequently speak at [conferences and events](#talks) about Big Data, High-Performance Computing and Artificial Intelligence.
+In addition, I frequently speak at [conferences and events](/talk) about Big Data, High-Performance Computing and Artificial Intelligence.

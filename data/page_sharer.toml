@@ -10,27 +10,11 @@
   enable = true
 
 [[buttons]]
-  id = "twitter"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
-  title = "Twitter"
-  icon_pack = "fab"
-  icon = "twitter"
-  enable = true
-
-[[buttons]]
-  id = "facebook"
-  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
-  title = "Facebook"
-  icon_pack = "fab"
-  icon = "facebook-f"
-  enable = true
-
-[[buttons]]
   id = "email"
   url = "mailto:?subject={title}&body={url}"
   title = "Email"
   icon_pack = "fas"
-  icon = "envelope"
+  icon = "envelope-square"
   enable = true
 
 [[buttons]]
@@ -38,7 +22,23 @@
   url = "https://web.whatsapp.com/send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
-  icon = "whatsapp"
+  icon = "whatsapp-square"
+  enable = true
+
+[[buttons]]
+  id = "twitter"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "Twitter"
+  icon_pack = "fab"
+  icon = "twitter-square"
+  enable = true
+
+[[buttons]]
+  id = "facebook"
+  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+  title = "Facebook"
+  icon_pack = "fab"
+  icon = "facebook-square"
   enable = true
 
 [[buttons]]
@@ -47,15 +47,15 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
   url = "https://reddit.com/submit?url={url}&title={title}"
   title = "Reddit"
   icon_pack = "fab"
-  icon = "reddit-alien"
-  enable = false
+  icon = "reddit-square"
+  enable = true
 
 [[buttons]]
   id = "pinterest"
@@ -64,3 +64,4 @@
   icon_pack = "fab"
   icon = "pinterest"
   enable = false
+
